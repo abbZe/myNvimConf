@@ -134,6 +134,11 @@ _G.packer_plugins = {
     path = "/home/abbze/.local/share/nvim/site/pack/packer/start/neosolarized.nvim",
     url = "https://github.com/svrana/neosolarized.nvim"
   },
+  nerdcommenter = {
+    loaded = true,
+    path = "/home/abbze/.local/share/nvim/site/pack/packer/start/nerdcommenter",
+    url = "https://github.com/preservim/nerdcommenter"
+  },
   ["null-ls.nvim"] = {
     loaded = true,
     path = "/home/abbze/.local/share/nvim/site/pack/packer/start/null-ls.nvim",
@@ -203,6 +208,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/abbze/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
+  },
+  ["vim-obsession"] = {
+    loaded = true,
+    path = "/home/abbze/.local/share/nvim/site/pack/packer/start/vim-obsession",
+    url = "https://github.com/tpope/vim-obsession"
   },
   ["vim-tmux-navigator"] = {
     loaded = true,
